@@ -11,12 +11,12 @@
     "MODE": {
       "description": "Put Mode either public or private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": false,
-      "value": "GIFTED TECH"
+      "value": "NICCUR420🔥"
     },
     "SESSION_ID": {
       "description": "Put Your SESSION_ID Here. It must startwithGifted~",
@@ -26,7 +26,7 @@
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Number",
       "required": false,
-      "value": "254110853827"
+      "value": "254716163914"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -51,7 +51,7 @@
     "AUTO_TYPING": {
       "description": "Put true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "Put true if you want bot to show recording audio",
@@ -66,7 +66,7 @@
     "AUTO_DOWNLOAD": {
       "description": "Put true if you need to download media by using link without cmd",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_BLOCK": {
       "description": "Put true if you want bot to auto block only 212 numbers",
